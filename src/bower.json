@@ -1,0 +1,27 @@
+{
+  "name": "Boilerplates",
+  "version": "1.0.0",
+  "homepage": "https://github.com/goldnarms/Boilerplates",
+  "authors": [
+    "Arnstein Johansen <arnstej@gmail.com>"
+  ],
+  "description": "Generics boilerplate",
+  "main": "app.js",
+  "keywords": [
+    "Boilerplates"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2",
+    "scraperjs": "https://github.com/ruipgil/scraperjs.git#~0.3.2",
+    "require": "*"
+  }
+}
