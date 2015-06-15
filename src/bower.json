@@ -6,7 +6,6 @@
     "Arnstein Johansen <arnstej@gmail.com>"
   ],
   "description": "Generics boilerplate",
-  "main": "app.js",
   "keywords": [
     "Boilerplates"
   ],
@@ -20,8 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "react": "~0.12.2",
-    "scraperjs": "https://github.com/ruipgil/scraperjs.git#~0.3.2",
-    "require": "*"
+    "react": "~0.12.1",
+    "slick-carousel": "https://github.com/kenwheeler/slick.git#~1.3.15"
   }
 }
